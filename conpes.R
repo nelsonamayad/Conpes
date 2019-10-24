@@ -39,7 +39,7 @@ read.csv("https://raw.githubusercontent.com/nelsonamayad/conpes/master/conpes.cs
   labs(y="Documentos Conpes",
        x=NULL,
        title="Ojalá recuperen el Conpes",
-       subtitle="Los que no se le niegan a nadie: Declaratoria de importancia estrategica \npara obtener vigencias futuras exceptionales y atar gasto futuro hoy",
+       subtitle="Los que no se le niegan a nadie: Declaratoria de importancia estrategica \npara obtener vigencias futuras exceptionales.",
        caption = "*MGMP, SGP, POAI y Creditos externos \nFuente: DNP, calculos propios")+
   theme(legend.position = "top", 
         legend.title = element_blank(),
